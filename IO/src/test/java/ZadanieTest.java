@@ -1,9 +1,9 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class zadanie {
+public class ZadanieTest {
     @Test
-    void testdziala() {
+    void testdziala123() {
         assertTrue(true);
     }
 }
